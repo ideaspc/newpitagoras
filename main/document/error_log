@@ -1,0 +1,2614 @@
+[13-Apr-2020 16:45:40 America/Chicago] PHP Warning:  Declaration of FillBlanks::return_header($exercise, $counter = NULL, $score = NULL) should be compatible with Question::return_header(Exercise $exercise, $counter = NULL, $score = Array) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php on line 12
+[13-Apr-2020 16:45:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php:12) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/chamilo_session.class.php on line 98
+[01-May-2020 16:34:52 America/Chicago] PHP Warning:  Declaration of FillBlanks::return_header($exercise, $counter = NULL, $score = NULL) should be compatible with Question::return_header(Exercise $exercise, $counter = NULL, $score = Array) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php on line 12
+[01-May-2020 16:34:52 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php:12) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/chamilo_session.class.php on line 98
+[01-May-2020 16:35:09 America/Chicago] PHP Warning:  Declaration of FillBlanks::return_header($exercise, $counter = NULL, $score = NULL) should be compatible with Question::return_header(Exercise $exercise, $counter = NULL, $score = Array) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php on line 12
+[01-May-2020 16:35:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php:12) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/chamilo_session.class.php on line 98
+[01-May-2020 16:36:13 America/Chicago] PHP Warning:  Declaration of FillBlanks::return_header($exercise, $counter = NULL, $score = NULL) should be compatible with Question::return_header(Exercise $exercise, $counter = NULL, $score = Array) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php on line 12
+[01-May-2020 16:36:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php:12) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/chamilo_session.class.php on line 98
+[01-May-2020 16:36:23 America/Chicago] PHP Warning:  Declaration of FillBlanks::return_header($exercise, $counter = NULL, $score = NULL) should be compatible with Question::return_header(Exercise $exercise, $counter = NULL, $score = Array) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php on line 12
+[01-May-2020 16:36:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php:12) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/chamilo_session.class.php on line 98
+[01-May-2020 16:39:56 America/Chicago] PHP Warning:  Declaration of FillBlanks::return_header($exercise, $counter = NULL, $score = NULL) should be compatible with Question::return_header(Exercise $exercise, $counter = NULL, $score = Array) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php on line 12
+[01-May-2020 16:39:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php:12) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/chamilo_session.class.php on line 98
+[01-May-2020 16:40:00 America/Chicago] PHP Warning:  Declaration of FillBlanks::return_header($exercise, $counter = NULL, $score = NULL) should be compatible with Question::return_header(Exercise $exercise, $counter = NULL, $score = Array) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php on line 12
+[01-May-2020 16:40:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php:12) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/chamilo_session.class.php on line 98
+[01-May-2020 16:40:30 America/Chicago] PHP Warning:  Declaration of FillBlanks::return_header($exercise, $counter = NULL, $score = NULL) should be compatible with Question::return_header(Exercise $exercise, $counter = NULL, $score = Array) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php on line 12
+[01-May-2020 16:40:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php:12) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/chamilo_session.class.php on line 98
+[01-May-2020 16:40:39 America/Chicago] PHP Warning:  Declaration of FillBlanks::return_header($exercise, $counter = NULL, $score = NULL) should be compatible with Question::return_header(Exercise $exercise, $counter = NULL, $score = Array) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php on line 12
+[01-May-2020 16:40:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php:12) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/chamilo_session.class.php on line 98
+[05-May-2020 10:30:10 America/Chicago] An exception occurred while executing 'SELECT * FROM settings_current
+            WHERE access_url = 1    ORDER BY 1,2 ASC':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:10 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:10 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:10 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:10 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:10 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:10 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:10 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:11 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:12 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:13 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:14 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:15 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:16 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:16 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 234':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 10:30:16 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home4/mdmaster/public_html/www/nuevopitagoras.com/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 106
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT * FROM settings_current
+            WHERE access_url = 1    ORDER BY 1,2 ASC':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:45 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:46 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:47 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:12:48 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home4/mdmaster/public_html/www/nuevopitagoras.com/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php on line 90
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT * FROM settings_current
+            WHERE access_url = 1    ORDER BY 1,2 ASC':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:52 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:53 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:54 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] An exception occurred while executing 'SELECT id FROM access_url WHERE url = 'https://nuevopitagoras.com/'':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[05-May-2020 14:14:55 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home4/mdmaster/public_html/www/nuevopitagoras.com/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php on line 90
+[07-May-2020 16:24:04 America/Chicago] An exception occurred while executing 'SELECT * FROM settings_current
+            WHERE access_url = 1    ORDER BY 1,2 ASC':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:05 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:06 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:07 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:08 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:08 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:08 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:08 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:08 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:08 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:08 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:08 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:08 America/Chicago] An exception occurred while executing 'SELECT * FROM gradebook_certificate
+                WHERE user_id= 273':
+
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[07-May-2020 16:24:08 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home4/mdmaster/public_html/www/nuevopitagoras.com/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 106

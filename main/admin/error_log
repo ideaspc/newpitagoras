@@ -1,0 +1,3 @@
+[06-May-2020 19:37:41 America/Chicago] ERROR: mail not sent to Fabrizio Purizaca Bances (joseayastadiaz@gmail.com) because of Could not instantiate mail function.<br />
+[06-May-2020 19:48:29 America/Chicago] /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/api.lib.php line 5253: rmdir(/home4/mdmaster/www/www/nuevopitagoras.com/app/cache//twig/1): Directory not empty
+[06-May-2020 19:48:29 America/Chicago] /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/api.lib.php line 5253: rmdir(/home4/mdmaster/www/www/nuevopitagoras.com/app/cache//twig): Directory not empty

@@ -1,0 +1,2 @@
+[06-May-2020 19:52:18 America/Chicago] PHP Warning:  mkdir(): File exists in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/global.inc.php on line 104
+[06-May-2020 19:52:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/global.inc.php:104) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/chamilo_session.class.php on line 98

@@ -1,0 +1,1887 @@
+[15-Apr-2020 09:18:33 America/Chicago] PHP Warning:  Declaration of UniqueAnswer::return_header($exercise, $counter = NULL, $score = NULL) should be compatible with Question::return_header(Exercise $exercise, $counter = NULL, $score = Array) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/unique_answer.class.php on line 19
+[15-Apr-2020 09:18:33 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/unique_answer.class.php:19) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/chamilo_session.class.php on line 98
+[15-Apr-2020 10:25:55 America/Chicago] loading not cACHE
+[15-Apr-2020 10:25:55 America/Chicago] loading not cACHE
+[15-Apr-2020 10:25:55 America/Chicago] loading not cACHE
+[15-Apr-2020 10:25:55 America/Chicago] loading not cACHE
+[15-Apr-2020 10:25:55 America/Chicago] loading not cACHE
+[15-Apr-2020 10:25:55 America/Chicago] loading not cACHE
+[15-Apr-2020 10:25:55 America/Chicago] loading not cACHE
+[15-Apr-2020 10:25:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 25, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[21-Apr-2020 12:38:48 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:48 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:48 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:48 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:48 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:48 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:48 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:48 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 60, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[21-Apr-2020 12:38:49 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:49 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:49 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:49 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:49 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:49 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:49 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:49 America/Chicago] loading not cACHE
+[21-Apr-2020 12:38:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 60, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[21-Apr-2020 12:47:24 America/Chicago] loading not cACHE
+[21-Apr-2020 12:47:24 America/Chicago] loading not cACHE
+[21-Apr-2020 12:47:24 America/Chicago] loading not cACHE
+[21-Apr-2020 12:47:25 America/Chicago] loading not cACHE
+[21-Apr-2020 12:47:25 America/Chicago] loading not cACHE
+[21-Apr-2020 12:47:25 America/Chicago] loading not cACHE
+[21-Apr-2020 12:47:25 America/Chicago] loading not cACHE
+[21-Apr-2020 12:47:25 America/Chicago] loading not cACHE
+[21-Apr-2020 12:47:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 60, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 18:36:33 America/Chicago] loading not cACHE
+[22-Apr-2020 18:36:34 America/Chicago] loading not cACHE
+[22-Apr-2020 18:36:34 America/Chicago] loading not cACHE
+[22-Apr-2020 18:36:34 America/Chicago] loading not cACHE
+[22-Apr-2020 18:36:34 America/Chicago] loading not cACHE
+[22-Apr-2020 18:36:34 America/Chicago] loading not cACHE
+[22-Apr-2020 18:36:34 America/Chicago] loading not cACHE
+[22-Apr-2020 18:36:34 America/Chicago] loading not cACHE
+[22-Apr-2020 18:36:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 28, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 18:40:36 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:36 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:36 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:36 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:36 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:36 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:36 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:36 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 212, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 18:40:44 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:44 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:44 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:44 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:44 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:44 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:44 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:44 America/Chicago] loading not cACHE
+[22-Apr-2020 18:40:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 212, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 20:39:54 America/Chicago] loading not cACHE
+[22-Apr-2020 20:39:54 America/Chicago] loading not cACHE
+[22-Apr-2020 20:39:54 America/Chicago] loading not cACHE
+[22-Apr-2020 20:39:54 America/Chicago] loading not cACHE
+[22-Apr-2020 20:39:54 America/Chicago] loading not cACHE
+[22-Apr-2020 20:39:54 America/Chicago] loading not cACHE
+[22-Apr-2020 20:39:54 America/Chicago] loading not cACHE
+[22-Apr-2020 20:39:54 America/Chicago] loading not cACHE
+[22-Apr-2020 20:39:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 22, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 21:56:27 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:27 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:27 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:27 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:27 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:27 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:27 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:27 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 21:56:33 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:33 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:33 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:33 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:33 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:33 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:33 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:33 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 21:56:38 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:38 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:38 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:38 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:38 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:38 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:38 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:38 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 21:56:43 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:43 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:43 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:43 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:43 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:43 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:43 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:43 America/Chicago] loading not cACHE
+[22-Apr-2020 21:56:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:05:48 America/Chicago] loading not cACHE
+[22-Apr-2020 22:05:48 America/Chicago] loading not cACHE
+[22-Apr-2020 22:05:48 America/Chicago] loading not cACHE
+[22-Apr-2020 22:05:49 America/Chicago] loading not cACHE
+[22-Apr-2020 22:05:49 America/Chicago] loading not cACHE
+[22-Apr-2020 22:05:49 America/Chicago] loading not cACHE
+[22-Apr-2020 22:05:49 America/Chicago] loading not cACHE
+[22-Apr-2020 22:05:49 America/Chicago] loading not cACHE
+[22-Apr-2020 22:05:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:09:53 America/Chicago] loading not cACHE
+[22-Apr-2020 22:09:53 America/Chicago] loading not cACHE
+[22-Apr-2020 22:09:53 America/Chicago] loading not cACHE
+[22-Apr-2020 22:09:53 America/Chicago] loading not cACHE
+[22-Apr-2020 22:09:53 America/Chicago] loading not cACHE
+[22-Apr-2020 22:09:53 America/Chicago] loading not cACHE
+[22-Apr-2020 22:09:53 America/Chicago] loading not cACHE
+[22-Apr-2020 22:09:53 America/Chicago] loading not cACHE
+[22-Apr-2020 22:09:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:10:25 America/Chicago] loading not cACHE
+[22-Apr-2020 22:10:25 America/Chicago] loading not cACHE
+[22-Apr-2020 22:10:25 America/Chicago] loading not cACHE
+[22-Apr-2020 22:10:25 America/Chicago] loading not cACHE
+[22-Apr-2020 22:10:25 America/Chicago] loading not cACHE
+[22-Apr-2020 22:10:25 America/Chicago] loading not cACHE
+[22-Apr-2020 22:10:25 America/Chicago] loading not cACHE
+[22-Apr-2020 22:10:25 America/Chicago] loading not cACHE
+[22-Apr-2020 22:10:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:11:50 America/Chicago] loading not cACHE
+[22-Apr-2020 22:11:50 America/Chicago] loading not cACHE
+[22-Apr-2020 22:11:50 America/Chicago] loading not cACHE
+[22-Apr-2020 22:11:50 America/Chicago] loading not cACHE
+[22-Apr-2020 22:11:50 America/Chicago] loading not cACHE
+[22-Apr-2020 22:11:50 America/Chicago] loading not cACHE
+[22-Apr-2020 22:11:50 America/Chicago] loading not cACHE
+[22-Apr-2020 22:11:50 America/Chicago] loading not cACHE
+[22-Apr-2020 22:11:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:12:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:12:19 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:19 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:19 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:19 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:19 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:19 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:19 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:19 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:12:21 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:21 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:21 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:21 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:21 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:21 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:21 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:21 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:12:33 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:33 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:33 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:33 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:33 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:33 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:33 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:33 America/Chicago] loading not cACHE
+[22-Apr-2020 22:12:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:13:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:13:18 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:18 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:18 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:18 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:18 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:18 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:18 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:18 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:13:22 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:22 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:22 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:22 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:22 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:22 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:22 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:22 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:13:35 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:35 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:35 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:35 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:35 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:35 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:35 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:35 America/Chicago] loading not cACHE
+[22-Apr-2020 22:13:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:26:42 America/Chicago] loading not cACHE
+[22-Apr-2020 22:26:42 America/Chicago] loading not cACHE
+[22-Apr-2020 22:26:42 America/Chicago] loading not cACHE
+[22-Apr-2020 22:26:42 America/Chicago] loading not cACHE
+[22-Apr-2020 22:26:42 America/Chicago] loading not cACHE
+[22-Apr-2020 22:26:42 America/Chicago] loading not cACHE
+[22-Apr-2020 22:26:42 America/Chicago] loading not cACHE
+[22-Apr-2020 22:26:42 America/Chicago] loading not cACHE
+[22-Apr-2020 22:26:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 134, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:27:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:27:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:27:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:27:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:27:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:27:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:27:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:27:10 America/Chicago] loading not cACHE
+[22-Apr-2020 22:27:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 134, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:28:41 America/Chicago] loading not cACHE
+[22-Apr-2020 22:28:41 America/Chicago] loading not cACHE
+[22-Apr-2020 22:28:41 America/Chicago] loading not cACHE
+[22-Apr-2020 22:28:41 America/Chicago] loading not cACHE
+[22-Apr-2020 22:28:41 America/Chicago] loading not cACHE
+[22-Apr-2020 22:28:41 America/Chicago] loading not cACHE
+[22-Apr-2020 22:28:41 America/Chicago] loading not cACHE
+[22-Apr-2020 22:28:41 America/Chicago] loading not cACHE
+[22-Apr-2020 22:28:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 134, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:29:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 134, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:29:02 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:02 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:02 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:02 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:02 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:02 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:02 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:02 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 134, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:29:13 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:13 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:13 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:13 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:13 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:13 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:13 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:13 America/Chicago] loading not cACHE
+[22-Apr-2020 22:29:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 134, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:34:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:34:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:34:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:34:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:34:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:34:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:34:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:34:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:34:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:35:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:00 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:35:39 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:39 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:39 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:39 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:39 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:39 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:39 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:39 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:35:47 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:47 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:47 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:47 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:47 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:47 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:47 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:47 America/Chicago] loading not cACHE
+[22-Apr-2020 22:35:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:48:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:48:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:48:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:48:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:48:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:48:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:48:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:48:45 America/Chicago] loading not cACHE
+[22-Apr-2020 22:48:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:58:11 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:11 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:11 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:11 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:11 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:11 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:11 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:11 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:58:51 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:51 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:51 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:51 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:51 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:51 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:51 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:51 America/Chicago] loading not cACHE
+[22-Apr-2020 22:58:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[22-Apr-2020 22:59:16 America/Chicago] loading not cACHE
+[22-Apr-2020 22:59:16 America/Chicago] loading not cACHE
+[22-Apr-2020 22:59:16 America/Chicago] loading not cACHE
+[22-Apr-2020 22:59:16 America/Chicago] loading not cACHE
+[22-Apr-2020 22:59:16 America/Chicago] loading not cACHE
+[22-Apr-2020 22:59:16 America/Chicago] loading not cACHE
+[22-Apr-2020 22:59:16 America/Chicago] loading not cACHE
+[22-Apr-2020 22:59:16 America/Chicago] loading not cACHE
+[22-Apr-2020 22:59:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[23-Apr-2020 07:50:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 212, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[23-Apr-2020 07:50:45 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:45 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:45 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:45 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:45 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:45 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:45 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:45 America/Chicago] loading not cACHE
+[23-Apr-2020 07:50:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 212, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[23-Apr-2020 07:53:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:34 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 212, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[23-Apr-2020 07:53:43 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:43 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:43 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:43 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:43 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:43 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:43 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:43 America/Chicago] loading not cACHE
+[23-Apr-2020 07:53:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 212, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[23-Apr-2020 13:49:31 America/Chicago] loading not cACHE
+[23-Apr-2020 13:49:31 America/Chicago] loading not cACHE
+[23-Apr-2020 13:49:31 America/Chicago] loading not cACHE
+[23-Apr-2020 13:49:31 America/Chicago] loading not cACHE
+[23-Apr-2020 13:49:31 America/Chicago] loading not cACHE
+[23-Apr-2020 13:49:31 America/Chicago] loading not cACHE
+[23-Apr-2020 13:49:31 America/Chicago] loading not cACHE
+[23-Apr-2020 13:49:31 America/Chicago] loading not cACHE
+[23-Apr-2020 13:49:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 156, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[23-Apr-2020 16:37:53 America/Chicago] loading not cACHE
+[23-Apr-2020 16:37:53 America/Chicago] loading not cACHE
+[23-Apr-2020 16:37:53 America/Chicago] loading not cACHE
+[23-Apr-2020 16:37:53 America/Chicago] loading not cACHE
+[23-Apr-2020 16:37:53 America/Chicago] loading not cACHE
+[23-Apr-2020 16:37:53 America/Chicago] loading not cACHE
+[23-Apr-2020 16:37:53 America/Chicago] loading not cACHE
+[23-Apr-2020 16:37:53 America/Chicago] loading not cACHE
+[23-Apr-2020 16:37:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 192, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[23-Apr-2020 19:20:30 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:30 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:30 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:30 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:30 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:30 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:30 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:30 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 98, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[23-Apr-2020 19:20:37 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:37 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:37 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:37 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:37 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:37 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:37 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:37 America/Chicago] loading not cACHE
+[23-Apr-2020 19:20:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 98, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[24-Apr-2020 17:40:47 America/Chicago] loading not cACHE
+[24-Apr-2020 17:40:47 America/Chicago] loading not cACHE
+[24-Apr-2020 17:40:47 America/Chicago] loading not cACHE
+[24-Apr-2020 17:40:47 America/Chicago] loading not cACHE
+[24-Apr-2020 17:40:47 America/Chicago] loading not cACHE
+[24-Apr-2020 17:40:47 America/Chicago] loading not cACHE
+[24-Apr-2020 17:40:47 America/Chicago] loading not cACHE
+[24-Apr-2020 17:40:47 America/Chicago] loading not cACHE
+[24-Apr-2020 17:40:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 254, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[25-Apr-2020 16:49:00 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:00 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:00 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:00 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:00 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:00 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:00 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:00 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:00 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:00 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:01 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:01 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:01 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:01 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:01 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:01 America/Chicago] loading not cACHE
+[25-Apr-2020 16:49:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:54 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:55 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:55 America/Chicago] loading not cACHE
+[27-Apr-2020 14:51:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 140, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[28-Apr-2020 15:07:00 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:00 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:00 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:00 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:00 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:00 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:00 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:00 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:00 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:00 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:00 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:00 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:01 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:01 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:01 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:01 America/Chicago] loading not cACHE
+[28-Apr-2020 15:07:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 199, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] loading not cACHE
+[28-Apr-2020 19:25:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] loading not cACHE
+[30-Apr-2020 15:33:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 311, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[01-May-2020 15:41:09 America/Chicago] PHP Warning:  Declaration of FillBlanks::return_header($exercise, $counter = NULL, $score = NULL) should be compatible with Question::return_header(Exercise $exercise, $counter = NULL, $score = Array) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php on line 12
+[01-May-2020 15:41:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php:12) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/chamilo_session.class.php on line 98
+[01-May-2020 15:41:11 America/Chicago] PHP Warning:  Declaration of FillBlanks::return_header($exercise, $counter = NULL, $score = NULL) should be compatible with Question::return_header(Exercise $exercise, $counter = NULL, $score = Array) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php on line 12
+[01-May-2020 15:41:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/mdmaster/public_html/www/nuevopitagoras.com/main/exercise/fill_blanks.class.php:12) in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/chamilo_session.class.php on line 98
+[01-May-2020 21:59:49 America/Chicago] loading not cACHE
+[01-May-2020 22:00:12 America/Chicago] loading not cACHE
+[01-May-2020 22:00:57 America/Chicago] loading not cACHE
+[01-May-2020 22:01:38 America/Chicago] loading not cACHE
+[01-May-2020 22:02:08 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] loading not cACHE
+[01-May-2020 23:36:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 233, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[02-May-2020 20:05:46 America/Chicago] loading not cACHE
+[02-May-2020 20:05:46 America/Chicago] loading not cACHE
+[02-May-2020 20:05:46 America/Chicago] loading not cACHE
+[02-May-2020 20:05:46 America/Chicago] loading not cACHE
+[02-May-2020 20:05:46 America/Chicago] loading not cACHE
+[02-May-2020 20:05:46 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] loading not cACHE
+[02-May-2020 20:05:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 233, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 178, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] loading not cACHE
+[03-May-2020 16:29:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 178, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] loading not cACHE
+[03-May-2020 21:17:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 117, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] loading not cACHE
+[04-May-2020 08:57:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 181, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[04-May-2020 08:57:32 America/Chicago] loading not cACHE
+[04-May-2020 08:57:32 America/Chicago] loading not cACHE
+[04-May-2020 08:57:32 America/Chicago] loading not cACHE
+[04-May-2020 08:57:32 America/Chicago] loading not cACHE
+[04-May-2020 08:57:32 America/Chicago] loading not cACHE
+[04-May-2020 08:57:32 America/Chicago] loading not cACHE
+[04-May-2020 08:57:32 America/Chicago] loading not cACHE
+[04-May-2020 08:57:32 America/Chicago] loading not cACHE
+[04-May-2020 08:57:32 America/Chicago] loading not cACHE
+[04-May-2020 08:57:32 America/Chicago] loading not cACHE
+[04-May-2020 08:57:32 America/Chicago] loading not cACHE
+[04-May-2020 08:57:33 America/Chicago] loading not cACHE
+[04-May-2020 08:57:33 America/Chicago] loading not cACHE
+[04-May-2020 08:57:33 America/Chicago] loading not cACHE
+[04-May-2020 08:57:33 America/Chicago] loading not cACHE
+[04-May-2020 08:57:33 America/Chicago] loading not cACHE
+[04-May-2020 08:57:33 America/Chicago] loading not cACHE
+[04-May-2020 08:57:33 America/Chicago] loading not cACHE
+[04-May-2020 08:57:33 America/Chicago] loading not cACHE
+[04-May-2020 08:57:33 America/Chicago] loading not cACHE
+[04-May-2020 08:57:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 181, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] loading not cACHE
+[04-May-2020 09:00:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 181, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[04-May-2020 21:27:27 America/Chicago] loading not cACHE
+[04-May-2020 21:27:27 America/Chicago] loading not cACHE
+[04-May-2020 21:27:27 America/Chicago] loading not cACHE
+[04-May-2020 21:27:27 America/Chicago] loading not cACHE
+[04-May-2020 21:27:27 America/Chicago] loading not cACHE
+[04-May-2020 21:27:28 America/Chicago] loading not cACHE
+[04-May-2020 21:27:28 America/Chicago] loading not cACHE
+[04-May-2020 21:27:28 America/Chicago] loading not cACHE
+[04-May-2020 21:27:28 America/Chicago] loading not cACHE
+[04-May-2020 21:27:28 America/Chicago] loading not cACHE
+[04-May-2020 21:27:28 America/Chicago] loading not cACHE
+[04-May-2020 21:27:28 America/Chicago] loading not cACHE
+[04-May-2020 21:27:28 America/Chicago] loading not cACHE
+[04-May-2020 21:27:28 America/Chicago] loading not cACHE
+[04-May-2020 21:27:28 America/Chicago] loading not cACHE
+[04-May-2020 21:27:29 America/Chicago] loading not cACHE
+[04-May-2020 21:27:29 America/Chicago] loading not cACHE
+[04-May-2020 21:27:29 America/Chicago] loading not cACHE
+[04-May-2020 21:27:29 America/Chicago] loading not cACHE
+[04-May-2020 21:27:29 America/Chicago] loading not cACHE
+[04-May-2020 21:27:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 340, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] loading not cACHE
+[05-May-2020 08:26:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 263, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] loading not cACHE
+[05-May-2020 08:26:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 263, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] loading not cACHE
+[05-May-2020 08:26:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 263, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] loading not cACHE
+[05-May-2020 08:26:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 263, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] loading not cACHE
+[05-May-2020 08:26:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 263, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] loading not cACHE
+[05-May-2020 08:27:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 263, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] loading not cACHE
+[05-May-2020 08:28:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 263, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] loading not cACHE
+[05-May-2020 08:28:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 263, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] loading not cACHE
+[05-May-2020 18:49:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 368, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] loading not cACHE
+[05-May-2020 22:50:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 134, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:40 America/Chicago] loading not cACHE
+[05-May-2020 22:50:41 America/Chicago] loading not cACHE
+[05-May-2020 22:50:41 America/Chicago] loading not cACHE
+[05-May-2020 22:50:41 America/Chicago] loading not cACHE
+[05-May-2020 22:50:41 America/Chicago] loading not cACHE
+[05-May-2020 22:50:41 America/Chicago] loading not cACHE
+[05-May-2020 22:50:41 America/Chicago] loading not cACHE
+[05-May-2020 22:50:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 134, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] loading not cACHE
+[05-May-2020 22:52:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 134, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:21 America/Chicago] loading not cACHE
+[05-May-2020 23:02:22 America/Chicago] loading not cACHE
+[05-May-2020 23:02:22 America/Chicago] loading not cACHE
+[05-May-2020 23:02:22 America/Chicago] loading not cACHE
+[05-May-2020 23:02:22 America/Chicago] loading not cACHE
+[05-May-2020 23:02:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 134, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] loading not cACHE
+[05-May-2020 23:02:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 134, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] loading not cACHE
+[05-May-2020 23:02:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 134, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] loading not cACHE
+[05-May-2020 23:03:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 134, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[05-May-2020 23:21:44 America/Chicago] loading not cACHE
+[05-May-2020 23:21:45 America/Chicago] loading not cACHE
+[05-May-2020 23:22:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] loading not cACHE
+[06-May-2020 13:39:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] loading not cACHE
+[06-May-2020 13:39:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[06-May-2020 18:13:24 America/Chicago] loading not cACHE
+[06-May-2020 18:13:24 America/Chicago] loading not cACHE
+[06-May-2020 18:13:24 America/Chicago] loading not cACHE
+[06-May-2020 18:13:24 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] loading not cACHE
+[06-May-2020 18:13:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 238, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] loading not cACHE
+[06-May-2020 21:14:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 19, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[07-May-2020 09:12:54 America/Chicago] loading not cACHE
+[07-May-2020 09:12:54 America/Chicago] loading not cACHE
+[07-May-2020 09:12:54 America/Chicago] loading not cACHE
+[07-May-2020 09:12:54 America/Chicago] loading not cACHE
+[07-May-2020 09:12:54 America/Chicago] loading not cACHE
+[07-May-2020 09:12:54 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] loading not cACHE
+[07-May-2020 09:12:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 346, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] loading not cACHE
+[07-May-2020 09:30:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 356, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[07-May-2020 09:30:59 America/Chicago] loading not cACHE
+[07-May-2020 09:30:59 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] loading not cACHE
+[07-May-2020 09:31:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 356, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] loading not cACHE
+[07-May-2020 09:31:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 356, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] loading not cACHE
+[07-May-2020 13:02:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 274, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
+[07-May-2020 18:48:06 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] loading not cACHE
+[07-May-2020 18:48:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function get_weight() on null in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php:464
+Stack trace:
+#0 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(592): GradebookTable->get_table_data(0)
+#1 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/inc/lib/sortable_table.class.php(283): SortableTable->get_table_html()
+#2 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/GradebookUtils.php(1608): SortableTable->return_table()
+#3 /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/index.php(72): GradebookUtils::generateTable(Array, 290, Array)
+#4 {main}
+  thrown in /home4/mdmaster/public_html/www/nuevopitagoras.com/main/gradebook/lib/fe/gradebooktable.class.php on line 464
